@@ -1,7 +1,7 @@
 ---
 title: "ENVS 193DS Workshop 7"
 date: 2024-05-15
-author: "insert your name here"
+author: "Cooper Honeywell"
 format: html
 ---
 
@@ -29,11 +29,11 @@ Look at the file structure in this repository.
 
 Where is this `.qmd` file? Where is the `abalone_growth.csv` file?  
 
-_insert response here_  
+_the .qmd file is in the code folder, and the .csv file is in the data folder within the repository_  
 
 Note the file path within the `read_csv()` function. How is this different from how we've stored and read data before?  
 
-_insert response here_  
+_we inserted "data" along with the name of the .csv file itself to direct it to the right folder_  
 
 **COMMIT AND PUSH YOUR CHANGES!**
 
