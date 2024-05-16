@@ -55,7 +55,7 @@ class(abalone)
 
 Compare the three ways of looking at data below. What's different about the outputs, and what's similar?  
 
-_insert response below_
+_the first method is the most confusing, there's a lot going on but it shows the first few values of each variable. Glimpse shows a more simplified version in the same format as str. class shows us the different components within abalone_
 
 **COMMIT AND PUSH YOUR CHANGES!**
 
