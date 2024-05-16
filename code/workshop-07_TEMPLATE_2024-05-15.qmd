@@ -70,7 +70,8 @@ Annotate the code to make `abalone_plot`. Make the plot look better by:
 abalone_plot <- ggplot(data = abalone,
                        aes(x = temperature,
                            y = growth)) +
-  geom_point()
+  geom_point(size = 2.5)+
+  theme_classic()
 
 abalone_plot
 ```
